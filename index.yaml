@@ -53,6 +53,16 @@ entries:
     version: 0.0.1
   console:
   - apiVersion: v2
+    appVersion: 2.0.7
+    created: "2023-02-03T18:58:02.919452125Z"
+    description: A Helm chart for the Kubefirst Console
+    digest: b902adf0008fd7e123dca8835b846a792b6544626f0b0cdd46b036520a3e2a3a
+    name: console
+    type: application
+    urls:
+    - https://github.com/kubefirst/charts/releases/download/console-2.0.8/console-2.0.8.tgz
+    version: 2.0.8
+  - apiVersion: v2
     appVersion: 1.17.1
     created: "2023-01-31T19:02:30.81337004Z"
     description: A Helm chart for the Kubefirst Console
@@ -283,4 +293,4 @@ entries:
     urls:
     - https://kubefirst.github.io/charts/helm-k1-watcher-operator-0.4.0.tgz
     version: 0.4.0
-generated: "2023-01-31T19:02:30.81348784Z"
+generated: "2023-02-03T18:58:02.919586825Z"
