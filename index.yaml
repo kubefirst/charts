@@ -393,4 +393,15 @@ entries:
     urls:
     - https://kubefirst.github.io/charts/helm-k1-watcher-operator-0.4.0.tgz
     version: 0.4.0
-generated: "2023-03-31T17:02:45.019413191Z"
+  metaphor:
+  - apiVersion: v2
+    appVersion: 8c5fd0ea4e0523c953b317fc5fe9fa89dac9688f
+    created: "2023-05-18T06:31:14.501994048Z"
+    description: A Helm chart for Kubernetes
+    digest: f55ace4eda6d4f515ad5bf93acc94fd9a44297d747400919e9239907499cb831
+    name: metaphor
+    type: application
+    urls:
+    - https://kubefirst.github.io/metaphor-0.2.10.tgz
+    version: 0.2.10
+generated: "2023-05-18T06:31:14.501236634Z"
