@@ -53,6 +53,16 @@ entries:
     version: 0.0.1
   console:
   - apiVersion: v2
+    appVersion: 2.1.8
+    created: "2023-06-07T22:22:58.085992489Z"
+    description: A Helm chart for the Kubefirst Console
+    digest: 6b67a98d421d7831d95c5e2a7f51ade403dce48164549768b08fcc436bb02c81
+    name: console
+    type: application
+    urls:
+    - https://github.com/kubefirst/charts/releases/download/console-2.1.8/console-2.1.8.tgz
+    version: 2.1.8
+  - apiVersion: v2
     appVersion: 2.1.7
     created: "2023-03-31T17:02:45.018878455Z"
     description: A Helm chart for the Kubefirst Console
@@ -424,4 +434,4 @@ entries:
     urls:
     - https://kubefirst.github.io/metaphor-0.2.10.tgz
     version: 0.2.10
-generated: "2023-05-19T03:32:18.262045944Z"
+generated: "2023-06-07T22:22:58.08632339Z"
